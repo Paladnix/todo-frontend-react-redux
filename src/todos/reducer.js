@@ -8,6 +8,8 @@ export default (state = [], action) => {
         {
           id: action.id,
           description: action.description,
+          priority: action.priority,
+          expire: action.expire,
           status: action.status,
           username: 'paladnix@outlook.com',
         }

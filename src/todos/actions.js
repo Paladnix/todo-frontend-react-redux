@@ -23,7 +23,9 @@ export const addTodo = (data) => ({
   type: ADD_TODO,
   id : data.id,
   status: data.status,
-  description: data.description
+  description: data.description,
+    priority: data.priority,
+    expire: data.expire
 });
 
 export const toggleTodo = (id) => ({
