@@ -1,0 +1,14 @@
+.body{
+    font-family: sans-serif;
+    font-size: 16px;  
+    max-width: 1024px;
+    word-wrap:break-word;
+    word-break: break-all;
+    margin: auto auto;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right:20px;
+    background: #FFF;
+}
