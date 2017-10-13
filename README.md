@@ -15,4 +15,7 @@ However I am not familier with the operation of html and has not get a suitable 
 
 # Samples
 
+You can use it int the site [http://paladnix.top:3000](http://paladnix.top:3000).
+
+It's a simple toy.
 
